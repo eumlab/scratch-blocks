@@ -99,6 +99,7 @@
     "LOOKS_PREVIOUSBACKDROP": "previous backdrop",
     "LOOKS_RANDOMBACKDROP": "random backdrop",
     "MOTION_MOVESTEPS": "move %1 steps",
+    "MOTION_MOVEGRIDS": "move %1 grids",
     "MOTION_TURNLEFT": "turn %1 %2 degrees",
     "MOTION_TURNRIGHT": "turn %1 %2 degrees",
     "MOTION_POINTINDIRECTION": "point in direction %1",
@@ -283,5 +284,5 @@
     "NEW_BROADCAST_MESSAGE": "New message",
     "NEW_BROADCAST_MESSAGE_TITLE": "New message name:",
     "BROADCAST_MODAL_TITLE": "New Message",
-    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1",
+    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1"
 }
