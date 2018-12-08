@@ -290,6 +290,11 @@ Blockly.Msg.CATEGORY_SENSING = 'Sensing';
 Blockly.Msg.CATEGORY_OPERATORS = 'Operators';
 Blockly.Msg.CATEGORY_VARIABLES = 'Variables';
 Blockly.Msg.CATEGORY_MYBLOCKS = 'My Blocks';
+Blockly.Msg.CATEGORY_PYTHON = 'Python';
+// xigua python toolbar
+Blockly.Msg.CATEGORY_XIGUA_API= 'xigua_api';
+
+Blockly.Msg.XIGUA_API_SEND= 'xigua bianliang %1';
 
 // Context menus
 Blockly.Msg.DUPLICATE = 'Duplicate';

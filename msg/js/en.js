@@ -243,6 +243,10 @@ Blockly.Msg["CATEGORY_SENSING"] = "Sensing";
 Blockly.Msg["CATEGORY_OPERATORS"] = "Operators";
 Blockly.Msg["CATEGORY_VARIABLES"] = "Variables";
 Blockly.Msg["CATEGORY_MYBLOCKS"] = "My Blocks";
+Blockly.Msg["CATEGORY_PYTHON"] = "Python";
+// xigua toolbar
+Blockly.Msg["CATEGORY_XIGUA_API"] = "xigua_api";
+Blockly.Msg["XIGUA_API_SEND"] = "xigua bianliang %1 ";
 Blockly.Msg["DUPLICATE"] = "Duplicate";
 Blockly.Msg["DELETE"] = "Delete";
 Blockly.Msg["ADD_COMMENT"] = "Add Comment";
