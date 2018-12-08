@@ -465,6 +465,9 @@ Blockly.Workspace.prototype.getWidth = function() {
  * @return {!Blockly.Block} The created block.
  */
 Blockly.Workspace.prototype.newBlock = function(prototypeName, opt_id) {
+  console.log('prototypeName----');
+  console.log(prototypeName)
+  console.log(opt_id)
   return new Blockly.Block(this, prototypeName, opt_id);
 };
 

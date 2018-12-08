@@ -142,7 +142,6 @@ Blockly.Msg.LOOKS_RANDOMBACKDROP = 'random backdrop';
 
 // Motion blocks
 Blockly.Msg.MOTION_MOVESTEPS = 'move %1 steps';
-Blockly.Msg.MOTION_MOVEGRIDS = 'move %1 grids';
 Blockly.Msg.MOTION_TURNLEFT = 'turn %1 %2 degrees';
 Blockly.Msg.MOTION_TURNRIGHT = 'turn %1 %2 degrees';
 Blockly.Msg.MOTION_POINTINDIRECTION = 'point in direction %1';
@@ -290,6 +289,11 @@ Blockly.Msg.CATEGORY_SENSING = 'Sensing';
 Blockly.Msg.CATEGORY_OPERATORS = 'Operators';
 Blockly.Msg.CATEGORY_VARIABLES = 'Variables';
 Blockly.Msg.CATEGORY_MYBLOCKS = 'My Blocks';
+Blockly.Msg.CATEGORY_PYTHON = 'Python';
+// xigua python toolbar
+Blockly.Msg.CATEGORY_XIGUA_API= 'xigua_api';
+
+Blockly.Msg.XIGUA_API_SEND= 'xigua bianliang %1';
 
 // Context menus
 Blockly.Msg.DUPLICATE = 'Duplicate';

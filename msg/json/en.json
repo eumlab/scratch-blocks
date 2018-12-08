@@ -99,7 +99,6 @@
     "LOOKS_PREVIOUSBACKDROP": "previous backdrop",
     "LOOKS_RANDOMBACKDROP": "random backdrop",
     "MOTION_MOVESTEPS": "move %1 steps",
-    "MOTION_MOVEGRIDS": "move %1 grids",
     "MOTION_TURNLEFT": "turn %1 %2 degrees",
     "MOTION_TURNRIGHT": "turn %1 %2 degrees",
     "MOTION_POINTINDIRECTION": "point in direction %1",
@@ -237,6 +236,9 @@
     "CATEGORY_OPERATORS": "Operators",
     "CATEGORY_VARIABLES": "Variables",
     "CATEGORY_MYBLOCKS": "My Blocks",
+    "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "category_xigua_api",
+    "XIGUA_API_SEND": "xigua bianliang %1",
     "DUPLICATE": "Duplicate",
     "DELETE": "Delete",
     "ADD_COMMENT": "Add Comment",
@@ -281,5 +283,5 @@
     "NEW_BROADCAST_MESSAGE": "New message",
     "NEW_BROADCAST_MESSAGE_TITLE": "New message name:",
     "BROADCAST_MODAL_TITLE": "New Message",
-    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1"
+    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1",
 }
