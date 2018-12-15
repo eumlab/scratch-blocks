@@ -3577,7 +3577,7 @@ Blockly.ScratchMsgs.locales["en"] =
     "LOOKS_PREVIOUSBACKDROP": "previous backdrop",
     "LOOKS_RANDOMBACKDROP": "random backdrop",
     "MOTION_MOVESTEPS": "move %1 steps",
-    "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
+    "MOTION_MOVEGRIDS": "move %1 grids(40 steps)",
     "XIGUA_API_SEND": 'xigua bianliang %1',
     "MOTION_TURNLEFT": "turn %1 %2 degrees",
     "MOTION_TURNRIGHT": "turn %1 %2 degrees",
