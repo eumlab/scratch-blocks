@@ -457,11 +457,12 @@ Blockly.defineBlocksWithJsonArray = function(jsonArray) {
             'Block definition #' + i +
             ' in JSON array is missing a type attribute. Skipping.');
       } else {
-        if (Blockly.Blocks[typename]) {
-          console.warn(
-              'Block definition #' + i + ' in JSON array' +
-              ' overwrites prior definition of "' + typename + '".');
-        }
+        // PIKUN:-2018.12.10 暂时屏蔽，有可能出现块名相同，参数不同的情况
+        // if (Blockly.Blocks[typename]) {
+        //   console.warn(
+        //       'Block definition #' + i + ' in JSON array' +
+        //       ' overwrites prior definition of "' + typename + '".');
+        // }
         Blockly.Blocks[typename] = {
           init: Blockly.jsonInitFactory_(elem)
         };
