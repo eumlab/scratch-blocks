@@ -10,8 +10,9 @@ goog.require('Blockly.ScratchMsgs');
 Blockly.ScratchMsgs.locales["ab"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "инагӡалатәуп",
     "CONTROL_REPEAT": "инагӡалатәуп %1 - нтә",
     "CONTROL_IF": "%1 акәзар",
@@ -299,8 +300,9 @@ Blockly.ScratchMsgs.locales["ab"] =
 Blockly.ScratchMsgs.locales["ar"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "كرِّر باستمرار",
     "CONTROL_REPEAT": "كرِّر%1 مرة",
     "CONTROL_IF": "إذا %1",
@@ -588,8 +590,9 @@ Blockly.ScratchMsgs.locales["ar"] =
 Blockly.ScratchMsgs.locales["am"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "ለዘላለም",
     "CONTROL_REPEAT": "%1ን ድገም",
     "CONTROL_IF": "%1 ከሆነ",
@@ -877,8 +880,9 @@ Blockly.ScratchMsgs.locales["am"] =
 Blockly.ScratchMsgs.locales["az"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "həmişə",
     "CONTROL_REPEAT": "təkrarla %1 dəfə",
     "CONTROL_IF": "əgər %1, onda",
@@ -1166,8 +1170,9 @@ Blockly.ScratchMsgs.locales["az"] =
 Blockly.ScratchMsgs.locales["id"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "selamanya",
     "CONTROL_REPEAT": "ulangi %1 kali",
     "CONTROL_IF": "jika %1 maka",
@@ -1455,8 +1460,9 @@ Blockly.ScratchMsgs.locales["id"] =
 Blockly.ScratchMsgs.locales["ca"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "per sempre",
     "CONTROL_REPEAT": "repeteix %1",
     "CONTROL_IF": "si %1 llavors",
@@ -1744,8 +1750,9 @@ Blockly.ScratchMsgs.locales["ca"] =
 Blockly.ScratchMsgs.locales["cs"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "opakuj stále",
     "CONTROL_REPEAT": "opakuj %1 krát",
     "CONTROL_IF": "když %1 tak",
@@ -2033,8 +2040,9 @@ Blockly.ScratchMsgs.locales["cs"] =
 Blockly.ScratchMsgs.locales["cy"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "am byth",
     "CONTROL_REPEAT": "ailadrodd %1",
     "CONTROL_IF": "os %1 yna",
@@ -2322,8 +2330,9 @@ Blockly.ScratchMsgs.locales["cy"] =
 Blockly.ScratchMsgs.locales["da"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "for evigt",
     "CONTROL_REPEAT": "gentag %1 gange",
     "CONTROL_IF": "hvis %1 så",
@@ -2611,8 +2620,9 @@ Blockly.ScratchMsgs.locales["da"] =
 Blockly.ScratchMsgs.locales["de"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "wiederhole fortlaufend",
     "CONTROL_REPEAT": "wiederhole %1 mal",
     "CONTROL_IF": "falls %1, dann",
@@ -2900,8 +2910,9 @@ Blockly.ScratchMsgs.locales["de"] =
 Blockly.ScratchMsgs.locales["et"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "korda lõputult",
     "CONTROL_REPEAT": "korda %1 korda",
     "CONTROL_IF": "kui %1 siis",
@@ -3189,8 +3200,9 @@ Blockly.ScratchMsgs.locales["et"] =
 Blockly.ScratchMsgs.locales["el"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "για πάντα",
     "CONTROL_REPEAT": "επανάλαβε %1",
     "CONTROL_IF": "εάν %1 τότε",
@@ -3478,8 +3490,9 @@ Blockly.ScratchMsgs.locales["el"] =
 Blockly.ScratchMsgs.locales["en"] =
 {
     "MOTION_MOVEGRIDS": "move %1 grids(40 steps)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "forever",
     "CONTROL_REPEAT": "repeat %1",
     "CONTROL_IF": "if %1 then",
@@ -3767,8 +3780,9 @@ Blockly.ScratchMsgs.locales["en"] =
 Blockly.ScratchMsgs.locales["es"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "por siempre",
     "CONTROL_REPEAT": "repetir %1",
     "CONTROL_IF": "si %1 entonces",
@@ -4056,8 +4070,9 @@ Blockly.ScratchMsgs.locales["es"] =
 Blockly.ScratchMsgs.locales["es-419"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "por siempre",
     "CONTROL_REPEAT": "repetir %1",
     "CONTROL_IF": "si %1 entonces",
@@ -4345,8 +4360,9 @@ Blockly.ScratchMsgs.locales["es-419"] =
 Blockly.ScratchMsgs.locales["eu"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "etengabe",
     "CONTROL_REPEAT": "errepikatu %1 aldiz",
     "CONTROL_IF": "baldin %1 orduan",
@@ -4634,8 +4650,9 @@ Blockly.ScratchMsgs.locales["eu"] =
 Blockly.ScratchMsgs.locales["fr"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "répéter indéfiniment",
     "CONTROL_REPEAT": "répéter %1 fois",
     "CONTROL_IF": "si %1 alors",
@@ -4923,8 +4940,9 @@ Blockly.ScratchMsgs.locales["fr"] =
 Blockly.ScratchMsgs.locales["ga"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "go deo",
     "CONTROL_REPEAT": "déan %1 uair",
     "CONTROL_IF": "más %1 ansin",
@@ -5212,8 +5230,9 @@ Blockly.ScratchMsgs.locales["ga"] =
 Blockly.ScratchMsgs.locales["gd"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "gu buan",
     "CONTROL_REPEAT": "dèan seo %1 turas",
     "CONTROL_IF": "ma tha %1 a-rèiste",
@@ -5501,8 +5520,9 @@ Blockly.ScratchMsgs.locales["gd"] =
 Blockly.ScratchMsgs.locales["gl"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "para sempre",
     "CONTROL_REPEAT": "repetir %1",
     "CONTROL_IF": "se %1 entón",
@@ -5790,8 +5810,9 @@ Blockly.ScratchMsgs.locales["gl"] =
 Blockly.ScratchMsgs.locales["ko"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "무한 반복하기",
     "CONTROL_REPEAT": "%1 번 반복하기",
     "CONTROL_IF": "만약 %1 (이)라면",
@@ -6079,8 +6100,9 @@ Blockly.ScratchMsgs.locales["ko"] =
 Blockly.ScratchMsgs.locales["he"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "לעולמים",
     "CONTROL_REPEAT": "חזור  %1 פעמים",
     "CONTROL_IF": "אם %1 אז",
@@ -6368,8 +6390,9 @@ Blockly.ScratchMsgs.locales["he"] =
 Blockly.ScratchMsgs.locales["hr"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "ponavljaj",
     "CONTROL_REPEAT": "ponovi %1",
     "CONTROL_IF": "ako %1 onda",
@@ -6657,8 +6680,9 @@ Blockly.ScratchMsgs.locales["hr"] =
 Blockly.ScratchMsgs.locales["zu"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "ingunaphakade",
     "CONTROL_REPEAT": "phinda %1",
     "CONTROL_IF": "uma %1 bese",
@@ -6946,8 +6970,9 @@ Blockly.ScratchMsgs.locales["zu"] =
 Blockly.ScratchMsgs.locales["is"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "endalaust",
     "CONTROL_REPEAT": "endurtaka %1 sinnum",
     "CONTROL_IF": "ef %1 þá",
@@ -7235,8 +7260,9 @@ Blockly.ScratchMsgs.locales["is"] =
 Blockly.ScratchMsgs.locales["it"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "per sempre",
     "CONTROL_REPEAT": "ripeti %1  volte",
     "CONTROL_IF": "se %1 allora",
@@ -7524,8 +7550,9 @@ Blockly.ScratchMsgs.locales["it"] =
 Blockly.ScratchMsgs.locales["lv"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "forever",
     "CONTROL_REPEAT": "repeat %1",
     "CONTROL_IF": "if %1 then",
@@ -7813,8 +7840,9 @@ Blockly.ScratchMsgs.locales["lv"] =
 Blockly.ScratchMsgs.locales["lt"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "kartoti be galo",
     "CONTROL_REPEAT": "kartoti %1 kartus",
     "CONTROL_IF": "jeigu %1, tuomet",
@@ -8102,8 +8130,9 @@ Blockly.ScratchMsgs.locales["lt"] =
 Blockly.ScratchMsgs.locales["mi"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "mō ake, ake mahia",
     "CONTROL_REPEAT": "tōaitia %1",
     "CONTROL_IF": "mēnā %1 mahia",
@@ -8391,8 +8420,9 @@ Blockly.ScratchMsgs.locales["mi"] =
 Blockly.ScratchMsgs.locales["nl"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "herhaal",
     "CONTROL_REPEAT": "herhaal %1",
     "CONTROL_IF": "als %1 dan",
@@ -8680,8 +8710,9 @@ Blockly.ScratchMsgs.locales["nl"] =
 Blockly.ScratchMsgs.locales["ja"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "ずっと",
     "CONTROL_REPEAT": "%1 回繰り返す",
     "CONTROL_IF": "もし %1 なら",
@@ -8969,8 +9000,9 @@ Blockly.ScratchMsgs.locales["ja"] =
 Blockly.ScratchMsgs.locales["ja-Hira"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "ずっと",
     "CONTROL_REPEAT": "%1 かいくりかえす",
     "CONTROL_IF": "もし %1 なら",
@@ -9258,8 +9290,9 @@ Blockly.ScratchMsgs.locales["ja-Hira"] =
 Blockly.ScratchMsgs.locales["hu"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "mindig",
     "CONTROL_REPEAT": "ismételd %1",
     "CONTROL_IF": "ha %1 akkor",
@@ -9547,8 +9580,9 @@ Blockly.ScratchMsgs.locales["hu"] =
 Blockly.ScratchMsgs.locales["nb"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "gjenta for alltid",
     "CONTROL_REPEAT": "gjenta %1 ganger",
     "CONTROL_IF": "hvis %1",
@@ -9836,8 +9870,9 @@ Blockly.ScratchMsgs.locales["nb"] =
 Blockly.ScratchMsgs.locales["nn"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "for alltid",
     "CONTROL_REPEAT": "gjenta %1 gongar",
     "CONTROL_IF": "viss %1",
@@ -10125,8 +10160,9 @@ Blockly.ScratchMsgs.locales["nn"] =
 Blockly.ScratchMsgs.locales["th"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "วนซ้ำตลอด",
     "CONTROL_REPEAT": "ทำซ้ำ %1",
     "CONTROL_IF": "ถ้า %1 แล้ว",
@@ -10414,8 +10450,9 @@ Blockly.ScratchMsgs.locales["th"] =
 Blockly.ScratchMsgs.locales["pl"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "zawsze",
     "CONTROL_REPEAT": "powtarzaj %1",
     "CONTROL_IF": "jeżeli %1 to",
@@ -10703,8 +10740,9 @@ Blockly.ScratchMsgs.locales["pl"] =
 Blockly.ScratchMsgs.locales["pt"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "repete para sempre",
     "CONTROL_REPEAT": "repete %1 vezes",
     "CONTROL_IF": "se %1 , então",
@@ -10992,8 +11030,9 @@ Blockly.ScratchMsgs.locales["pt"] =
 Blockly.ScratchMsgs.locales["pt-br"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "sempre",
     "CONTROL_REPEAT": "repita %1 vezes",
     "CONTROL_IF": "se %1 então",
@@ -11281,8 +11320,9 @@ Blockly.ScratchMsgs.locales["pt-br"] =
 Blockly.ScratchMsgs.locales["ro"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "la infinit",
     "CONTROL_REPEAT": "repetă %1",
     "CONTROL_IF": "dacă %1 atunci",
@@ -11570,8 +11610,9 @@ Blockly.ScratchMsgs.locales["ro"] =
 Blockly.ScratchMsgs.locales["ru"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "всегда",
     "CONTROL_REPEAT": "повторить %1 раз",
     "CONTROL_IF": "если %1 , то",
@@ -11859,8 +11900,9 @@ Blockly.ScratchMsgs.locales["ru"] =
 Blockly.ScratchMsgs.locales["sr"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "понављај заувек",
     "CONTROL_REPEAT": "понови %1",
     "CONTROL_IF": "ако је %1 онда",
@@ -12148,8 +12190,9 @@ Blockly.ScratchMsgs.locales["sr"] =
 Blockly.ScratchMsgs.locales["sk"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "opakuj stále",
     "CONTROL_REPEAT": "opakuj %1",
     "CONTROL_IF": "ak %1",
@@ -12437,8 +12480,9 @@ Blockly.ScratchMsgs.locales["sk"] =
 Blockly.ScratchMsgs.locales["sl"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "ponavljaj",
     "CONTROL_REPEAT": "ponovi %1 krat",
     "CONTROL_IF": "če %1 potem",
@@ -12726,8 +12770,9 @@ Blockly.ScratchMsgs.locales["sl"] =
 Blockly.ScratchMsgs.locales["fi"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "ikuisesti",
     "CONTROL_REPEAT": "toista %1 kertaa",
     "CONTROL_IF": "jos %1, niin",
@@ -13015,8 +13060,9 @@ Blockly.ScratchMsgs.locales["fi"] =
 Blockly.ScratchMsgs.locales["sv"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "för alltid",
     "CONTROL_REPEAT": "repetera %1",
     "CONTROL_IF": "om %1 då",
@@ -13304,8 +13350,9 @@ Blockly.ScratchMsgs.locales["sv"] =
 Blockly.ScratchMsgs.locales["vi"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "liên tục",
     "CONTROL_REPEAT": "lặp lại %1",
     "CONTROL_IF": "nếu %1 thì",
@@ -13593,8 +13640,9 @@ Blockly.ScratchMsgs.locales["vi"] =
 Blockly.ScratchMsgs.locales["tr"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "sürekli tekrarla",
     "CONTROL_REPEAT": "%1 defa tekrarla",
     "CONTROL_IF": "eğer %1 ise",
@@ -13882,8 +13930,9 @@ Blockly.ScratchMsgs.locales["tr"] =
 Blockly.ScratchMsgs.locales["uk"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "завжди",
     "CONTROL_REPEAT": "повторити %1",
     "CONTROL_IF": "якщо %1 то",
@@ -14171,8 +14220,9 @@ Blockly.ScratchMsgs.locales["uk"] =
 Blockly.ScratchMsgs.locales["zh-cn"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "重复执行",
     "CONTROL_REPEAT": "重复执行 %1 次",
     "CONTROL_IF": "如果 %1 那么",
@@ -14460,8 +14510,9 @@ Blockly.ScratchMsgs.locales["zh-cn"] =
 Blockly.ScratchMsgs.locales["zh-tw"] =
 {
     "MOTION_MOVEGRIDS": "移动 %1 格(40步)",
-    "XIGUA_API_SEND": 'xigua bianliang %1',
+    "XIGUA_API_SEND": 'xigua_api_send %1',
     "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
     "CONTROL_FOREVER": "重複無限次",
     "CONTROL_REPEAT": "重複 %1 次",
     "CONTROL_IF": "如果 %1 那麼",

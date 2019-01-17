@@ -284,5 +284,9 @@
     "NEW_BROADCAST_MESSAGE": "New message",
     "NEW_BROADCAST_MESSAGE_TITLE": "New message name:",
     "BROADCAST_MODAL_TITLE": "New Message",
-    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1"
+    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1",
+    "XIGUA_API_SEND": "xigua_api_send %1",
+    "MOTION_MOVEGRIDS": "move %1 grids(40 steps)",
+    "CATEGORY_PYTHON": "Python",
+    "CATEGORY_XIGUA_API": "xigua_api"
 }
