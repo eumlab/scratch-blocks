@@ -142,7 +142,6 @@ Blockly.Msg.LOOKS_RANDOMBACKDROP = 'random backdrop';
 
 // Motion blocks
 Blockly.Msg.MOTION_MOVESTEPS = 'move %1 steps';
-Blockly.Msg.MOTION_MOVEGRIDS = 'move %1 grids';
 Blockly.Msg.MOTION_TURNLEFT = 'turn %1 %2 degrees';
 Blockly.Msg.MOTION_TURNRIGHT = 'turn %1 %2 degrees';
 Blockly.Msg.MOTION_POINTINDIRECTION = 'point in direction %1';
@@ -290,11 +289,6 @@ Blockly.Msg.CATEGORY_SENSING = 'Sensing';
 Blockly.Msg.CATEGORY_OPERATORS = 'Operators';
 Blockly.Msg.CATEGORY_VARIABLES = 'Variables';
 Blockly.Msg.CATEGORY_MYBLOCKS = 'My Blocks';
-Blockly.Msg.CATEGORY_PYTHON = 'Python';
-// xigua python toolbar
-Blockly.Msg.CATEGORY_XIGUA_API= 'xigua_api';
-
-Blockly.Msg.XIGUA_API_SEND= 'xigua bianliang %1';
 
 // Context menus
 Blockly.Msg.DUPLICATE = 'Duplicate';
@@ -356,3 +350,16 @@ Blockly.Msg.NEW_BROADCAST_MESSAGE = 'New message';
 Blockly.Msg.NEW_BROADCAST_MESSAGE_TITLE = 'New message name:';
 Blockly.Msg.BROADCAST_MODAL_TITLE = 'New Message';
 Blockly.Msg.DEFAULT_BROADCAST_MESSAGE_NAME = 'message1';
+
+
+// XiGua
+// Motion blocks
+Blockly.Msg.MOTION_MOVEGRIDS = 'move %1 grids';
+
+// Category labels
+
+Blockly.Msg.CATEGORY_PYTHON = 'Python';
+
+// python toolbar
+Blockly.Msg.CATEGORY_XIGUA_API= 'xigua_api';
+Blockly.Msg.XIGUA_API_SEND= 'xigua api send %1';
