@@ -37,3 +37,7 @@ python_compressed.js
 /*compiler*.jar
 /local_blockly_compressed_vertical.js
 /chromedriver
+
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
